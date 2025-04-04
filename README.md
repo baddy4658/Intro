@@ -18,7 +18,7 @@
 ## Contact Info :
 
 
-<a href="https://t.me/Nda8009"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/BADDY_15"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 
 
 ## For Better Understanding
